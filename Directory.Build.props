@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup>
+    <!-- Trata todos los warnings como errores -->
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <NoWarn>CS8618;CS0628</NoWarn>
+  </PropertyGroup>
+</Project>
